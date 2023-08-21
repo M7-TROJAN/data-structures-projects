@@ -30,6 +30,12 @@ The "My Own String Class From Scratch" project showcases the implementation of a
 
 Folder: [My Own String Class From Scratch](./My%20Own%20String%20Class%20From%20Scratch)
 
+### Queue line management
+
+The "Queue line management" project focuses on efficiently managing queues in various scenarios. The core component of this project is the clsQueueLine class, which provides a comprehensive solution for handling ticket issuance, customer service, and queue management.
+
+Folder: [Queue line management](./Queue%20line%20management)
+
 ### UndoAbleString
 
 The "UndoAbleString" project introduces the implementation of an "UndoAbleString" class. This class allows you to manipulate a string while maintaining undo and redo functionalities. It uses stacks to store the history of string modifications.
