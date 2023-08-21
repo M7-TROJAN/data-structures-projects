@@ -16,13 +16,13 @@ Folder: [CustomDynamicArrayImplementation](./Custom%20Dynamic%20Array%20Implemen
 
 The "Custom Queue Implementation" project demonstrates the creation of a queue data structure using a custom class. The implemented queue supports standard queue operations like enqueue, dequeue, and size retrieval.
 
-Folder: [CustomQueueImplementation](./CustomQueueImplementation)
+Folder: [Custom Queue Implementation](./Custom%20Queue%20Implementation)
 
 ### My Own Doubly Linked List
 
 The "My Own Doubly Linked List" project presents an implementation of a doubly linked list data structure using a custom class. The doubly linked list enables efficient insertion, deletion, and traversal of elements in both directions.
 
-Folder: [MyOwnDoublyLinkedList](./MyOwnDoublyLinkedList)
+Folder: [My Own Doubly Linked List](./my%20own%20doubly%20LinkedList)
 
 ### UndoAbleString
 
