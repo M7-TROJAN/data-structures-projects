@@ -1,3 +1,6 @@
+// Copyright (c) [2021] [Mahmoud Mohamed]
+// Licensed under the MIT License.
+
 #pragma once
 #include <iostream>
 #include <stdexcept> // required header for std::out_of_range
