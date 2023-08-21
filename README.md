@@ -16,7 +16,7 @@ Folder: [CustomDynamicArrayImplementation](./Custom%20Dynamic%20Array%20Implemen
 
 The "Custom Queue Implementation" project demonstrates the creation of a queue data structure using a custom class. The implemented queue supports standard queue operations like enqueue, dequeue, and size retrieval.
 
-Folder: [Custom Queue Implementation](./Custom%20Queue%20Implementation)
+Folder: [CustomQueueImplementation](./Custom%20Queue%20Implementation)
 
 ### My Own Doubly Linked List
 
