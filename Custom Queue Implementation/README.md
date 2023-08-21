@@ -92,8 +92,8 @@ int main() {
 ## Note
 Hello, I'm Mahmoud Mohamed, 
 as a CS student. The motivation behind creating the clsMyQueue project is to facilitate training and showcase my proficiency in various programming domains. Building upon the foundation of the clsDblLinkedList project, this endeavor serves as a practical exercise aimed at refining my skills and vividly demonstrating competence in C++ programming, data structures, algorithmic concepts, and object-oriented programming principles. Moreover, it allows me to explore code reuse while providing a tangible application of object-oriented concepts.
-Best regards,
-Mahmoud Mohamed
+- Best regards,
+- Mahmoud Mohamed
 
 
 ## License
