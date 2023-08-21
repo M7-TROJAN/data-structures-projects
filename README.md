@@ -10,7 +10,7 @@ Each project focuses on implementing a specific data structure, providing clear 
 
 The "Custom Dynamic Array Implementation" project showcases the implementation of a dynamic array (similar to the `std::vector` in C++ STL) using a custom class. The dynamic array provides features such as resizing, insertion, deletion, and more.
 
-Folder: [CustomDynamicArrayImplementation](./Custom-Dynamic-Array-Implementation) 
+Folder: [CustomDynamicArrayImplementation](./Custom%20Dynamic%20Array%20Implementation) 
 
 ### Custom Queue Implementation
 
