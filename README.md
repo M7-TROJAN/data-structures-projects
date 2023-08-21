@@ -22,7 +22,7 @@ Folder: [CustomQueueImplementation](./Custom%20Queue%20Implementation)
 
 The "My Own Doubly Linked List" project presents an implementation of a doubly linked list data structure using a custom class. The doubly linked list enables efficient insertion, deletion, and traversal of elements in both directions.
 
-Folder: [My Own Doubly Linked List](./my%20own%20doubly%20LinkedList)
+Folder: [MyOwnDoublyLinkedList](./my%20own%20doubly%20LinkedList)
 
 ### UndoAbleString
 
