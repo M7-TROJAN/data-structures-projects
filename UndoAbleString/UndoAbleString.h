@@ -1,3 +1,6 @@
+// Copyright (c) [2021] [Mahmoud Mohamed]
+// Licensed under the MIT License.
+
 #pragma once
 
 #include <iostream>
