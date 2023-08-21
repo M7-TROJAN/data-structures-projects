@@ -24,6 +24,12 @@ The "My Own Doubly Linked List" project presents an implementation of a doubly l
 
 Folder: [MyOwnDoublyLinkedList](./my%20own%20doubly%20LinkedList)
 
+### My Own String Class From Scratch
+
+The "My Own String Class From Scratch" project showcases the implementation of a custom string class from scratch. The project demonstrates various string operations and functionalities.
+
+Folder: [My Own String Class From Scratch](./My%20Own%20String%20Class%20From%20Scratch)
+
 ### UndoAbleString
 
 The "UndoAbleString" project introduces the implementation of an "UndoAbleString" class. This class allows you to manipulate a string while maintaining undo and redo functionalities. It uses stacks to store the history of string modifications.
